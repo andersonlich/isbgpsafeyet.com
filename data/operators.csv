@@ -261,3 +261,5 @@ Pacswitch,ISP,filtering,partially safe,55536,27617
 NUTHOST,cloud,,unsafe,264649,36541
 Estoxy,cloud,,unsafe,208673,49189
 Terrahost,cloud,signed + filtering,safe,56655,59201
+CBN Network,transit,started,unsafe,38158
+CBN Internet,ISP,started,unsafe,4787
